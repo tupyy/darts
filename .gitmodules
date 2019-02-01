@@ -1,3 +1,3 @@
-[submodule "front"]
-	path = front
-	url = https://github.com/tupyy/darts_front
+[submodule "back"]
+	path = back
+	url = ./back
